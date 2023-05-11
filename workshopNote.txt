@@ -1,0 +1,552 @@
+#Historic Overview of threat hunting
+	crop start
+		movie of dr stange on ww2 -> need to see
+		book-> sanju the art of war
+	crop end
+Agenda 
+1. Concepts of network
+2. Dns ecosystem
+3. Cyber security 
+4. Threat analytics & hunting
+
+"Don't believe everything you read on the Internet"
+-Ab Lincoln
+
+================
+
+WAN-> wide area Network
+MAN-> Metropliton Area Network
+Lan->has 3 block 192.168.10.10
+->OTT,neflix 
+public ip
+
+WAN has MAN
+MAN has LAN
+
+IPV4-> Asia te sesh
+IPV6-> 
+
+What is network?
+key: Hob ,latency,browsing slow
+
+#Cyber! What was the origin of it?
+	Cyber->1950
+	Cyber space ->1990
+		->digital device gula interconnect howar obosta
+Note: learning system->(term->origin)
+
+#Cyberspace consists of four components 
+-information 
+-physical
+-cognitive actions
+-people
+bottom to top
+
+==>war is collective form of crime
+crime started ->1950s
+Mr BOB made creeper,rev thought to catch it  but made a virus surprisingly 
+-> ager pc te chilo->robot.txt
+
+[ip taake easy korar jonno ahslo dns 
+namer representation easy korse]
+[Dns came with a solution,it easier than ip
+it give's easiness in name representation]
+
+
+.com holo 1st tld
+
+kespersky copied clan patent
+
+Cyber security ->buisnessmodel, politics etc started from 1990
+Cyber attack name: SQL injection,cross site ,remote ,dataclip,zeroday attack
+	zero day means don't know
+	full info expose na kora publicly 
+apple icloud breaches 
+keyword: dirty cow 
+
+what is security ?
+
+Cyber security has 3 basic part:
+->C=(Confidentiality)-> question fash
+->I=Integrity 
+	East west university 
+	->student ra hack korse
+	->9 mash pore khobor hoise ewu ->Integrity
+
+->A=Availability 
+	max victim company cut wire for reducing vulnerability
+
+apni je service ta dite caccen ta koto tuku avaible for your client 
+
+[spices reduce corona in bd]=>jokes apart sometimes bad things comes with good outcome 
+
+top 5 attack
+->Micro 
+->facebook
+->linkdin
+->lindin
+->accenture
+->acer
+
+security is a myth
+Once you connected with the internet you aren't secure
+Someone from FBI said -> 
+People didn't think that they need cyber security ,once they became victim of any cyber attack 
+they feel it.
+#manush jotokkon na cyber attack e pore totokkon mne porena cyber security dorkar
+
+=========================================
+Acceidental 
+-something happen accidently
+Intentionally 
+-nsu programmers did hack their mail for anoynimous mail
+ that can reduce nsu respect 
+=====================================
+#DNS tunelling
+vimwire -> laptop aro koyekta server diye dewa hocce
+
+============================
+Door lock aren't working->vulnerablility 
+For checking I put key on that-> vulnerability assesment 
+After servicing the door I will check that the door is locked/not=>penetration testing [attack perform kore test kore dekbo]
+
+================================
+annominity-> koyta girlfriend ase 
+billgates 256 character er password dise and setao breakdown hoise 
+->billgates vabsilo eta breakdown pssible na
+=================================
+
+Cyberspace-> all things that are connected with digital life
+=================================
+#Threat x attack
+
+Dos attack
+bandwidth size 100mb
+2000 student eksathe ping korle 20-25mb tane
+20000 student dukle 100mb fill up
+100mb er ekta channel 90 er upore geley saturated and seh kono service dite parbena 
+==============================
+#Cyber security ! framework
+-> White hacker ra eta kore 
+-> sir himself eta kore
+============================
+Risk 
+dosto kotokkon gf er dike takaisilo and apni kotokkon dore marben 
+risk depend kore on something.
+
+gf na thake risk detect kora jai na 
+gf nai bondur risk nai 
+=============================
+
+zero-input-validation
+Asset is somethig that we are trying to protect 
+
+Track 
+=============================
+-offencive 
+-defencive 
+-general
+
+==============================
+Suggesions: we need to study on cyber security all the time 
+
+Ginipeg amader banano hoi ,as we all are chatgpt user 
+
+bugbounty ->offencive e ase 
+defencive e nai 
+
+
+Attack technique 
+
+
+DGA -> Domain Generation Algo 
+
+
+Attack target 
+
+
+====================
+covider er somoi 
+ransomware attack -> in germany 
+
+===================
+Mitigation 
+
+-preventive 
+-detective 
+-corrective
+
+that are al cyber security 
+=================
+
+nmap
+scan 
+log 
+dept 
+youtuber er course seller ra onek kisui sikhai na,sudu offencive sikhai
+offencive security cyber security na,cyber securityr ekta part 
+======================
+
+
+Getting started with Cyer Security 
+-Coding 
+-Systems 
+-Applications
+-Networking 
+Hack hoi windows breach hoi linux e 
+=======================
+web server koto doroner ase ,vulberability ki 
+etc 
+Socket =ip+port 
+8080 ke ip diye bind kore dicci ,etai socket 
+
+=======================
+Getting started 
+-CampTia
+-bd te starting 25-50 hazar taka 
+
+defencive korle 
+10 bozor pore 3lakh e jabe 
+
+=======================
+
+lab link: https://wiki.apnictraining.net/
+
+linux distribution :
+Mandriva,suse ,etc
+
+linux is very much case sensitive
+========================
+
+Command started :(
+
+
+/ = is called to be the root of all system 
+atc directory 
+administrator -> sudo 
+#command to modify ownership and permission 
+chown 
+Owner
+
+
+command: ls -lash 
+d-file type
+rwx-User 
+
+read neameric value 4
+write numberic value 2
+e-1
+rwx value =(4+2+1)
+	=7
+chmod 754 1.txt
+ls -lah
+
+-l
+-a
+-h
+
+command : #!/bin/bash
+echo "Hello world"
+crontab
+linux text editor 
+vi,nano,pico 
+gui editors: gedit(for gnome)
+vim adventure->search in google 
+command: man ping 
+	ping --help 
+
+	whoami
+	hostname
+	pwd
+	tree /
+	cd 
+	cd ..
+	cd /home/apnic/Documents/
+	cd ~/Documnets/
+	cd Documents/
+	cd ..
+	sudo -s   => root e niye jacce
+	whoami
+	cd ~
+	pwd
+	history ->list of command in the history 
+	history -c   to clear the history 
+	ls
+
+	====================================
+
+	touch testfile1 testfile2   ///2 file created 
+	ls test*
+	ls -l  test*
+	ls -la
+	ls -lash 
+	====================================
+	echo "therejrkerek">testfile1
+	cat testfile  -> to see whats there 
+	cat testfile2
+	cat test*   -> all thing will show up that name started with test 
+	less testfile1
+	file testfile1-> will show what the file type
+	mkdir /home/apnic/testdir1
+	cd testdir1
+	cd ~
+	ls test*
+	cp testfile1 /home/apnic/testdir1    [testfile1 path e save hobe]
+	ls testdir1/
+	cp testfile1 /home/kola/.
+	cp testfile backup testfile2
+	ls test*
+
+	mkdir testdir2
+	ls testdir2/
+	ls -la testdir2/
+	cp --help
+	man cp 
+	cp -r
+
+	cp -r testdir1 testdir2
+	ls -la testdir2
+	mv testfile2
+	mv testfile2 testdir2   ==>moving a file
+	ls -l testf*
+	
+	==================================
+	man command is usually used for manual
+	=================================
+	grep apnic/etc/passwd
+	grep -i Apnic /etc/passwd
+	more /etc/passwd
+	more /etc/passwd | grep apnic
+	cat /etc/passwd | grep apnic 
+	ls -al > output.txt
+	ls /var/log
+	
+	tail -f /var/log/auth.log
+
+	ls -l /etc/hosts
+	date 
+	date > date.txt
+	ls -l date.txt
+	chown root:root date.txt
+	sudo chown root:root date.txt
+	sudo chown apnic:apnic date.txt
+	ls -l date.txt
+	ls -lah date.txt
+	chmod 666 date.txt
+	chmod +w data.txt 
+	chmod o+w date.txt
+	chmod +x date.txt
+	ls -lah date.txt
+	man service
+	4.2) stopping and starting a service
+	sudo systemctl restart ufw 
+	sudo systemct1 status ufw 
+	sudo lsof -i -P -n
+	man lsof 
+	sudo nestat 
+	man ss 
+	ss -plantu
+	echo "hello"
+	nano hello.sh 
+
+	#!/bin
+
+	bash hello.sh 
+	./hello.sh 
+	cat /etc
+
+	cat /etc/resolv.conf
+	grep nameserver /etc/resolve.conf | cut -d " " -f 2
+	grep nameserver /etc/resolv.conf | swk -f" " 
+
+	=================
+	Penetration Testing 
+	Attack life cycle 
+	Security tools and meeasures 
+	=================
+	Nmap 
+	-nmap -sS <meta2_IP>
+	
+
+	ls | wc -l
+	ls -l |wc -l
+	wc -l snmp_short-
+	snmp walk -c prlv4
+
+
+wc -l ssh-usernames.txt
+it will show something like 55 ssh-usernames.txt
+
+
+
+
+=================================
+
+own note
+what does
+ll /
+list the root directory 
+all the system files
+os files,app,doc,except user data
+user data -> home
+ll /usr
+ll /usr/local 
+both of the hierarchy is for read only file
+
+both will show same because both has same purpose 
+usr are there is for some historical reasons
+
+ 
+ll /var     
+
+to see linux version==> lsb_release -a
+to see crontab is install or not: crontab -l
+			or crontab -e
+
+
+
+
+
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

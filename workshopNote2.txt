@@ -1,0 +1,137 @@
+Starting from here 10-02-2023
+========================
+Dns overview: 
+Domain name system
+	number against name
+	ip against domain name iub.edu.bd
+internet flow[upstream->iag->isp]
+bd er max upstream singaphore e 
+latency -> soron(physics) er 
+coz singapore is near to bd
+======================== 
+basai jey dns ase ota recursive dns server 
+iub.edu.bd acces korte hle ip ta lagbe 
+caching -> ekta certain time er jonno kisu rakha 
+root dns 
+world er root dns quantity 13 
+	TLD 
+	CCTLD
+Before dns robot.txt had all ip
+========================== 
+2021 akamoue routage
+it's cdn service provider 
+==========================
+BGP->networking er most use protocall 
+data center to data center off hoye jabe BGP off kore dile 
+iub te dns server ase 1ta 
+==========================
+windows is more secure than linux
+google dns server 8.8.8.8
+open dns use kore ddos attack ta hoi 
+	TCP,UDP
+TCP->connection oriented 
+UDP->connection less
+
+TCP port 53
+technology porar age rfc ta porbo 
+rfc defination  (user manual/man page)
+===========================
+DNS er parent ICANN
+#slide What is dns
+edu.bd->TLD
+edu.bd er kache gele iub ke pabe 
+dig iub.edu.bd
+2 bar diye dekte hbe 
+==============================
+
+DNS components:
+
+
+ip anycast is technoloy that invented by cisco 
+ip anycast tech-> distance 
+ip er against e domain host kora nai then spam e mail jabe
+
+===================
+RRs in a Zone File 
+ekhane ns1.apnic.net korle serial no manually change korte hbe that will be 2020072002
+avar korle last e 2 er jaigai 3 hoye jabe 
+
+refresh value is 7200
+
+===================
+#Delegation a zone
+
+Commange:
+	dig apnic.net +trace
+dns er attacker/defender hote hobe 
+
+===================
+
+
+dig iub.edu.bd ANY
+iuber dns 2 ta 
+authority dns 2 ta
+
+====================
+
+DNS Software 
+Bind
+
+
+
+.conf jey file gulai thakbe sob configuration file
+
+dns configuration file kuvi shopisticated 
+local host theke jeno query na hoi recursive e ->mathay rakte hbe 
+
+Zones in a Recursive Server 
+192.168.100.99
+100.168.192
+
+
+
+#always updated rakte hbe nijeke 
+#failure isn't a barrier to climb the tree 
+
+dns tunelling perform kora hbe which is kinda offencive
+
+
+AXFER ==purota hobe
+IAxfer thakle jsut increment hbe 
+
+
+
+recursive 
+authoritive
+
+2 ta jeno same server e na thake ,I mean jate 2 ta different linux os e na thake 
+1 ta single service ,1 ta single host ei host kora uchit 
+
+
+router ->ase datalink layer e 
+kon layer e ki ki jinish kaj korse eta mne rakte hbe 
+slide e pic dewa ase ota important 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

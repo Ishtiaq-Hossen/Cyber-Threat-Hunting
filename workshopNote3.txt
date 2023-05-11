@@ -1,0 +1,52 @@
+
+router ->ase datalink layer e 
+kon layer e ki ki jinish kaj korse eta mne rakte hbe 
+slide e pic dewa ase ota important 
+===================================
+
+Mac address uniq 
+Transport & session 
+	ip phone
+network,transport and session
+================================
+kya idea sirji  
+spoofing -> mac address manupulate kore ,identity expose na kora 
+man in the middle attack 
+recon kora mane ki?
+session hijacking
+	DNS er change primary to secondary 
+exploit -> 3 editots khata ulot palot kore dise 
+
+==============================
+dns version change kora jai 
+version =go to sleep 
+pabe
+
+
+==============================
+
+regex -> google search-> youtube 1 hour lagbe to learn everything on it 
+
+domain sort 
+
+sips._tcp.bd-grameenphone.rcs.telephony.gob
+
+etar pore ki kaj 
+eta telecomunnication kore kina 
+TXT ki ?
+SRV ki ?
+
+TXT and MX whats it ?
+for analysing we can use microsoft excel .
+root server er kache jay recursive dns server 
+
+
+
+
+
+
+
+
+
+
+
