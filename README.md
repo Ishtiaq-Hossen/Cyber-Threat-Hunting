@@ -1,8 +1,9 @@
 # Threat Hunting & Cyber Security Overview
 ## Table of Contents
 - [Day 1 Note](#day-1-note)
-- [Day 2 Note](#starting-from-10-02-2023)
-
+- [Day 2 Note](#day-2-note)
+- [Day 3 Note](#day-3-note)
+  
 # Day 1 Note
 ## Historic Overview of Threat Hunting
 
@@ -141,11 +142,7 @@
 
 
 # Day 2 Note
-
-
-
 # Threat Hunting and DNS Overview
-
 # Starting from 10-02-2023
 
 ### DNS Overview
@@ -232,8 +229,7 @@ Before learning DNS technology, read **RFC (Request for Comments)**, which acts 
 This README is structured for clarity and engagement. Let me know if you need further refinements! 🚀
 
 
-# Day 2 ends here 
-
+# Day 3 Note
 # Networking & Cyber Security Essentials
 
 ## Router & Data Link Layer
